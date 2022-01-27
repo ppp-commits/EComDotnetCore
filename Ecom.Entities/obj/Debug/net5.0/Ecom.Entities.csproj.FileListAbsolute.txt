@@ -1,0 +1,12 @@
+D:\Learning\DotNetCore\Ecom.Entities\bin\Debug\net5.0\Ecom.Entities.deps.json
+D:\Learning\DotNetCore\Ecom.Entities\bin\Debug\net5.0\Ecom.Entities.dll
+D:\Learning\DotNetCore\Ecom.Entities\bin\Debug\net5.0\ref\Ecom.Entities.dll
+D:\Learning\DotNetCore\Ecom.Entities\bin\Debug\net5.0\Ecom.Entities.pdb
+D:\Learning\DotNetCore\Ecom.Entities\obj\Debug\net5.0\Ecom.Entities.csproj.AssemblyReference.cache
+D:\Learning\DotNetCore\Ecom.Entities\obj\Debug\net5.0\Ecom.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\DotNetCore\Ecom.Entities\obj\Debug\net5.0\Ecom.Entities.AssemblyInfoInputs.cache
+D:\Learning\DotNetCore\Ecom.Entities\obj\Debug\net5.0\Ecom.Entities.AssemblyInfo.cs
+D:\Learning\DotNetCore\Ecom.Entities\obj\Debug\net5.0\Ecom.Entities.csproj.CoreCompileInputs.cache
+D:\Learning\DotNetCore\Ecom.Entities\obj\Debug\net5.0\Ecom.Entities.dll
+D:\Learning\DotNetCore\Ecom.Entities\obj\Debug\net5.0\ref\Ecom.Entities.dll
+D:\Learning\DotNetCore\Ecom.Entities\obj\Debug\net5.0\Ecom.Entities.pdb

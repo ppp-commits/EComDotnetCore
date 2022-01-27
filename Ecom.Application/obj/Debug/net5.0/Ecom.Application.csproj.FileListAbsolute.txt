@@ -1,0 +1,17 @@
+D:\Learning\DotNetCore\Ecom.Application\bin\Debug\net5.0\Ecom.Application.deps.json
+D:\Learning\DotNetCore\Ecom.Application\bin\Debug\net5.0\Ecom.Application.dll
+D:\Learning\DotNetCore\Ecom.Application\bin\Debug\net5.0\ref\Ecom.Application.dll
+D:\Learning\DotNetCore\Ecom.Application\bin\Debug\net5.0\Ecom.Application.pdb
+D:\Learning\DotNetCore\Ecom.Application\bin\Debug\net5.0\Ecom.DataAccess.dll
+D:\Learning\DotNetCore\Ecom.Application\bin\Debug\net5.0\Ecom.Entities.dll
+D:\Learning\DotNetCore\Ecom.Application\bin\Debug\net5.0\Ecom.DataAccess.pdb
+D:\Learning\DotNetCore\Ecom.Application\bin\Debug\net5.0\Ecom.Entities.pdb
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\Ecom.Application.csproj.AssemblyReference.cache
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\Ecom.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\Ecom.Application.AssemblyInfoInputs.cache
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\Ecom.Application.AssemblyInfo.cs
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\Ecom.Application.csproj.CoreCompileInputs.cache
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\Ecom.Application.csproj.CopyComplete
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\Ecom.Application.dll
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\ref\Ecom.Application.dll
+D:\Learning\DotNetCore\Ecom.Application\obj\Debug\net5.0\Ecom.Application.pdb
